@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "816831984722",
+    "project_id": "antonx-flutter-template",
+    "storage_bucket": "antonx-flutter-template.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816831984722:android:e3656920b03c1dab749b8b",
+        "android_client_info": {
+          "package_name": "com.example.antonx_flutter_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816831984722-9841vc2bc83malmom78df8g19n0vdil7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrPWQANyOoeEQeRFMT-FriKU2l3pxwfpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816831984722-9841vc2bc83malmom78df8g19n0vdil7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
